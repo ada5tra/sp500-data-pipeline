@@ -1,14 +1,9 @@
 
 # S&P 500 Data Projects
-Here's our logo (hover to see the title text):
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://tse2.mm.bing.net/th?id=OIG4.3d7fJKZTEIWXSkzI0eEG&pid=ImgGn "Logo Title Text 2"
 
 This project demonstrates how to build an end-to-end data pipeline for processing S&P 500 data using AWS S3, Snowflake, Python, and Terraform. The pipeline extracts raw data, transforms it, and loads it into Snowflake for analysis.
 
