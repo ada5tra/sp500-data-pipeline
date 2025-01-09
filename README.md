@@ -1,5 +1,7 @@
 
 # S&P 500 Data Projects
+![S&P500]([https://example.com/your-image.png](https://tse4.mm.bing.net/th?id=OIG4.FDOq2JMhtDuv8INKRXHZ&pid=ImgGn))
+
 This project demonstrates how to build an end-to-end data pipeline for processing S&P 500 data using AWS S3, Snowflake, Python, and Terraform. The pipeline extracts raw data, transforms it, and loads it into Snowflake for analysis.
 
 ## Prerequisites
