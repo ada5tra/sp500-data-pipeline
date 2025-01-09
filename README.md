@@ -23,4 +23,4 @@ This project demonstrates how to build an end-to-end data pipeline for processin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sp500-data-pipeline.git
+   git clone https://github.com/ada5tra/sp500-data-pipeline.git
