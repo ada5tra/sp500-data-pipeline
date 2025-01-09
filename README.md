@@ -23,7 +23,7 @@ This project demonstrates how to build an end-to-end data pipeline for processin
    ```bash
    git clone https://github.com/ada5tra/sp500-data-pipeline.git
 
-# Part 1 S&P 500 Docker & Kubernetes Setup 08/01/2025
+# Part 1. S&P 500 Docker & Kubernetes Setup (08/01/2025)
 Overview
 
 This project explores various tools and platforms to work with the S&P 500 dataset. The goal is to use these tools to create ETL pipelines, run exploratory data analysis (EDA), and develop various other models and applications. The platform stack includes Docker, Kubernetes, and other open-source tools for managing the dataset and performing data processing tasks.
@@ -108,7 +108,7 @@ While this project is still under development, here are some tasks for the futur
 --------------------------------------------------------------------------------------------
 
 
-# Part 2. S&P 500 Data Pipeline Project 09/01/2025
+# Part 2. S&P 500 Data Pipeline Project (09/01/2025)
 
 This project demonstrates how to set up a Snowflake data pipeline using AWS S3 as a staging area for loading data.
 
