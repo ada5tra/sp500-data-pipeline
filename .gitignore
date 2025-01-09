@@ -82,6 +82,25 @@ target/
 profile_default/
 ipython_config.py
 
+# Ignore Visual Studio files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node modules if you're using Node.js
+node_modules/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
 #   intended to run in multiple environments; otherwise, check them in:
