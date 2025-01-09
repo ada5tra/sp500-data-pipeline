@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: financial-analysis-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: financial-analysis-app
+  template:
+    metadata:
+      labels:
+        app: financial-analysis-app
+    spec:
+      containers:
+        - name: financial-analysis-app
+          image: financial-analysis-app:latest
+          ports:
+            - containerPort: 8080
